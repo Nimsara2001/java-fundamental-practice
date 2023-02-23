@@ -1,5 +1,5 @@
 import java.util.*;
-import java.lang.*; //Resource From the internet..
+import java.lang.*;
 class GDSE_MMS{
 	public static void main(String[] args) {
 		clearConsole();
